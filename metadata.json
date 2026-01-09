@@ -1,0 +1,5 @@
+{
+  "name": "InfraGestion BQ - Sistema de Gestión de Infraestructura",
+  "description": "Aplicación interna CRUD para gestión administrativa de infraestructura pública operando directamente sobre BigQuery.",
+  "requestFramePermissions": []
+}
